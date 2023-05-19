@@ -87,7 +87,7 @@
         <!--ThirdVC-->
         <scene sceneID="Zs0-M1-224">
             <objects>
-                <viewController id="1tx-nD-u26" customClass="ThirdVC" customModule="Navigation" customModuleProvider="target" sceneMemberID="viewController">
+                <viewController storyboardIdentifier="ThirdVC" useStoryboardIdentifierAsRestorationIdentifier="YES" id="1tx-nD-u26" customClass="ThirdVC" customModule="Navigation" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="boT-u5-3xV">
                         <rect key="frame" x="0.0" y="0.0" width="430" height="932"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
